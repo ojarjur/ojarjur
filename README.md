@@ -3,6 +3,8 @@
 My name is Omar Jarjur, and I am a software developer living in the
 Pacific Northwest.
 
+My preferred pronouns are "he"/"him".
+
 ## Portfolio
 
 I have worked on several open source software projects, including:
