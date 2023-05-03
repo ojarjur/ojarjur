@@ -9,6 +9,7 @@ My preferred pronouns are "he"/"him".
 
 I have worked on several open source software projects, including:
 
+* [A radically simple version control system](https://github.com/google/recursive-version-control-system)
 * [An operating system in a purely functional dialect of Lisp](https://github.com/ojarjur/losak)
 * [An implementation of compile-time multitasking for Scheme](https://github.com/ojarjur/multischeme)
 * [A distributed code review system](https://github.com/google/git-appraise)
